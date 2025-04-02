@@ -1,23 +1,3 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+Now this version of the mod has been completely updated and new features have been added for 2025.
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+This mod is the most popular for Minecraft. Its purpose is to upgrade crafting tools, as well as add a huge amount of new materials that can be mined or even made from ordinary mined resources.
